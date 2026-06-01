@@ -1,3 +1,4 @@
 # AI
-This is my first Git Repository, 
-Writer ; Noor Nisha
+This is my first Git Repository.
+<br>
+Writer : Noor Nisha
