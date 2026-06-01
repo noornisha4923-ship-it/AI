@@ -1,2 +1,3 @@
 # AI
-This is my first project
+This is my first Git Repository, 
+Writer ; Noor Nisha
